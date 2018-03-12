@@ -1,0 +1,7 @@
+﻿ID_PLAYER==>Joueur---Player
+ID_SCORE==>Pointage---Score
+ID_BONUS==>Bonus---Bonus
+ID_LIFE==>Vie---Life
+ID_ENTER_YOUR_NAME==>Entrez votre nom:---Enter your name:
+ID_PRESS_ESC==>Appuyez sur ESC---Press escape
+ID_TO_QUIT==>pour quitter---to quit
